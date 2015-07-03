@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"json"
+	"encoding/json"
 )
 
 type Resque struct {
